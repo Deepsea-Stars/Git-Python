@@ -1,6 +1,8 @@
 # Python学习仓库
 主要存放源码文件。
+
 IDE：Vscode
+
 ## Git 的M,T,D,A,U标志意思
     A: 增加的文件；
     C: 文件的一个新拷贝；
