@@ -21,3 +21,8 @@ IDE：Vscode
 ## 二、视频教程
     资源主要来自于博主：白月黑羽。
     链接：www.python3.vip
+
+## 三、菜鸟教程
+    100道练习实例
+    地址：https://www.runoob.com/python/python-100-examples.html
+    文件夹：runoob
